@@ -26,11 +26,12 @@ Using **Create React App (CRA):**
 npx create-react-app my-app
 cd my-app
 npm start
-
+```
 ✅ Output
-<img width="952" height="698" alt="Screenshot 2025-09-16 121843" src="https://github.com/user-attachments/assets/5757f08c-4bd2-4c25-97f8-772cbf554b79" />
 
 When the app runs successfully, the browser will display:
+
+<img width="952" height="698" alt="Image" src="https://github.com/user-attachments/assets/7cb7d21f-f889-4531-83a8-fe53c7a2d46e" />
 
 
 
